@@ -28,6 +28,7 @@ OBSERVATION TABLE
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+
 <img width="732" height="526" alt="image" src="https://github.com/user-attachments/assets/6ddfad2a-3b49-4935-9916-826e2026490e" />
 
 
